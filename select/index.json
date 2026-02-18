@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Eh, Eh",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2026-02-18T08:52:09.502595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eh, Eh (Nothing Else I Can Say)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/01_Eh,_Eh_(Nothing_Else_I_Can_Say)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eh, Eh (Nothing Else I Can Say) - Electric Piano and Human Beat Box Version",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/02_Eh,_Eh_(Nothing_Else_I_Can_Say)_-_Electric_Piano_and_Human_Beat_Box_Version_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eh, Eh (Nothing Else I Can Say) (Electric Piano and Human Beat Box Version)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/03_Eh,_Eh_(Nothing_Else_I_Can_Say)_(Electric_Piano_and_Human_Beat_Box_Version)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eh, Eh (Nothing Else I Can Say) - Pet Shop Boys Radio Mix",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/04_Eh,_Eh_(Nothing_Else_I_Can_Say)_-_Pet_Shop_Boys_Radio_Mix_Lady_Gaga.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eh, Eh (Nothing Else I Can Say) [Piano & Human Beat Box Version] {Live}",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/05_Eh,_Eh_(Nothing_Else_I_Can_Say)_[Piano_&_Human_Beat_Box_Version]_{Live}_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eh, Eh (Nothing Else I Can Say) (Piano & Human Beat Box Version)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/06_Eh,_Eh_(Nothing_Else_I_Can_Say)_(Piano_&_Human_Beat_Box_Version)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Piazza dell'oro (eh, eh)",
+      "artist": "Banco del Mutuo Soccorso",
+      "has_synced": false,
+      "path": "select/07_Piazza_dell'oro_(eh,_eh)_Banco_del_Mutuo_Soccorso.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Piazza dell’oro (eh, eh)",
+      "artist": "Banco del Mutuo Soccorso",
+      "has_synced": false,
+      "path": "select/08_Piazza_dell’oro_(eh,_eh)_Banco_del_Mutuo_Soccorso.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Eh, Eh (Nothing Else I Can Say)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/09_Eh,_Eh_(Nothing_Else_I_Can_Say)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eh, Eh (Nothing Else I Can Say) [FrankMusik \"Cut Snare Edit\" Remix]",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/10_Eh,_Eh_(Nothing_Else_I_Can_Say)_[FrankMusik__Cut_Snare_Edit__Remix]_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eh, Eh (Nothing Else I Can Say) (FrankMusik remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/11_Eh,_Eh_(Nothing_Else_I_Can_Say)_(FrankMusik_remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Eh, Eh (Nothing Else I Can Say) (Explicit)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/12_Eh,_Eh_(Nothing_Else_I_Can_Say)_(Explicit)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Eh, Eh (Nothing Else I Can Say)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/13_Eh,_Eh_(Nothing_Else_I_Can_Say)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eh Eh",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/14_Eh_Eh_Lady_Gaga.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Eh, Eh (Nothing Else I Can Say)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/15_Eh,_Eh_(Nothing_Else_I_Can_Say)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eh, Eh",
+      "artist": "fujii kaze",
+      "has_synced": false,
+      "path": "select/pl_01_Eh,_Eh_fujii_kaze.txt"
+    }
+  ]
+}
